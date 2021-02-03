@@ -24,6 +24,10 @@ dependencies:
   otp_text_field: ^1.0.1
   google_fonts: ^1.1.1
   intl: ^0.16.1
+  fluttertoast: ^7.1.6
+  shared_preferences: ^0.5.12+4
+  flutter_beep: ^0.2.0
+  modal_bottom_sheet: ^1.0.0+1
   qr_code_scanner: ^0.1.0
   flutter:
     sdk: flutter
